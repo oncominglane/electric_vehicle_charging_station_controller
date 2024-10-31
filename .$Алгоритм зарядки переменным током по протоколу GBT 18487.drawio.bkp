@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17" pages="5">
   <diagram id="1ECbSHvz-WvdykPcKt-6" name="Способы подключения">
-    <mxGraphModel dx="2528" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2329" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QJB4taHwHtR-wv6VzhzJ" name="Алгоритм">
-    <mxGraphModel dx="476" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="342" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,9 +62,6 @@
             <mxGeometry x="350" y="215" width="260" height="95" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="yQFWL27wt-V4wLsJAEfB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x7tLgEifL-sG0SXzAn50-1" target="yQFWL27wt-V4wLsJAEfB-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <UserObject label="Определение допустимого тока &#xa;в комплекте зарядных соединений&#xa; и номинальной мощности оборудования" link="data:page/id,0Ci-RsE8xKBGueDd9ytu" id="x7tLgEifL-sG0SXzAn50-1">
           <mxCell style="fontColor=#FFFFFF;fontStyle=4;rounded=1;overflow=hidden;spacing=10;fontSize=16;" parent="1" vertex="1">
             <mxGeometry x="330" y="420" width="360" height="80" as="geometry" />
@@ -73,16 +70,11 @@
         <mxCell id="uYgaJYhPy7rMDNMm2__E-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.417;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Nfa2C4TvEYvTRk9tixpo-1" target="x7tLgEifL-sG0SXzAn50-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Последовательность управления &#xa;процессом зарядки" link="data:page/id,L5ey7sO-qDmW8-c1sars" id="yQFWL27wt-V4wLsJAEfB-1">
-          <mxCell style="fontColor=#FFFFFF;fontStyle=4;rounded=1;overflow=hidden;spacing=10;fontSize=16;" vertex="1" parent="1">
-            <mxGeometry x="360" y="620" width="300" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="MwCPtWA9UEZSM_SASeTj" name="Подтверждение подключения и электронный замок">
-    <mxGraphModel dx="842" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="995" dy="2052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,12 +172,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0Ci-RsE8xKBGueDd9ytu" name="Определение допустимого тока в комплекте зарядных соединений и номинальной мощности оборудования">
-    <mxGraphModel dx="1853" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1574" dy="1326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Azv_EJB_ocn2BEDv0HQd-1" value="ЭБУ проверяет номинальную мощность кабеля путем измерения оспротивление между точками 3 и PE и максимальный ток питания оборудования измерением рабочего цикла ШИМ-сигнала в точке 2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="129" y="-230" width="390" height="90" as="geometry" />
+          <mxGeometry x="190" y="-150" width="390" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rTMOHJyhNDWPIYfYpXM--1" value="Зарядка запрещена" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="792" width="70" height="60" as="geometry" />
@@ -356,11 +348,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sSvECwvJscgdmNYSh3gp-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rTMOHJyhNDWPIYfYpXM--28" target="sSvECwvJscgdmNYSh3gp-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rTMOHJyhNDWPIYfYpXM--28" value="Может быть начат процесс зарядки с током, не превышающим ток, установленный ЭТС" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="972" width="160" height="68" as="geometry" />
+        <mxCell id="rTMOHJyhNDWPIYfYpXM--28" value="Завершение" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="972" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rTMOHJyhNDWPIYfYpXM--29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rTMOHJyhNDWPIYfYpXM--2" target="rTMOHJyhNDWPIYfYpXM--28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -372,30 +361,30 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rTMOHJyhNDWPIYfYpXM--30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rTMOHJyhNDWPIYfYpXM--7">
+        <mxCell id="rTMOHJyhNDWPIYfYpXM--30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rTMOHJyhNDWPIYfYpXM--7" target="rTMOHJyhNDWPIYfYpXM--28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="1032" as="sourcePoint" />
-            <mxPoint x="370" y="970" as="targetPoint" />
+            <mxPoint x="460" y="982" as="targetPoint" />
             <Array as="points">
               <mxPoint x="335" y="922" />
               <mxPoint x="370" y="922" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rTMOHJyhNDWPIYfYpXM--31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rTMOHJyhNDWPIYfYpXM--5">
+        <mxCell id="rTMOHJyhNDWPIYfYpXM--31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rTMOHJyhNDWPIYfYpXM--5" target="rTMOHJyhNDWPIYfYpXM--28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="1032" as="sourcePoint" />
-            <mxPoint x="400" y="970" as="targetPoint" />
+            <mxPoint x="460" y="982" as="targetPoint" />
             <Array as="points">
               <mxPoint x="470" y="922" />
               <mxPoint x="400" y="922" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rTMOHJyhNDWPIYfYpXM--32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rTMOHJyhNDWPIYfYpXM--6">
+        <mxCell id="rTMOHJyhNDWPIYfYpXM--32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rTMOHJyhNDWPIYfYpXM--6" target="rTMOHJyhNDWPIYfYpXM--28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="1032" as="sourcePoint" />
-            <mxPoint x="430" y="970" as="targetPoint" />
+            <mxPoint x="460" y="982" as="targetPoint" />
             <Array as="points">
               <mxPoint x="610" y="942" />
               <mxPoint x="430" y="942" />
@@ -439,29 +428,35 @@
           <mxGeometry x="-20" y="-12" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sSvECwvJscgdmNYSh3gp-2" value="Зарядка запрещена" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="230" width="70" height="60" as="geometry" />
+          <mxGeometry x="-70" y="242" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sSvECwvJscgdmNYSh3gp-3" value="Ожидание цифровой коммуникации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="227.5" width="100" height="60" as="geometry" />
+          <mxGeometry x="20" y="242" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sSvECwvJscgdmNYSh3gp-4" value="Зарядка запрещена" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="242" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sSvECwvJscgdmNYSh3gp-5" value="Зарядка запрещена" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="686" y="210" width="70" height="60" as="geometry" />
+          <mxGeometry x="817" y="242" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sSvECwvJscgdmNYSh3gp-6" value="Ток зарядки =&amp;nbsp;&lt;div&gt;(% цикла*100)*0,6 А&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="225" width="115" height="55" as="geometry" />
+          <mxGeometry x="390" y="244.5" width="115" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="sSvECwvJscgdmNYSh3gp-7" value="Ток зарядки =&amp;nbsp;&lt;div&gt;(% цикла*100 - 64)*2,5 А, но не более 63А&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="220" width="155" height="60" as="geometry" />
+        <mxCell id="sSvECwvJscgdmNYSh3gp-7" value="Ток зарядки =&amp;nbsp;&lt;div&gt;(% цикла*100 - 64)*2,5 А&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="242" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sSvECwvJscgdmNYSh3gp-8" value="Ток зарядки = 6 А" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="247" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sSvECwvJscgdmNYSh3gp-9" value="Зарезервированно (зарядка запрещена)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="220" width="130" height="60" as="geometry" />
+          <mxGeometry x="670" y="242" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sSvECwvJscgdmNYSh3gp-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="sSvECwvJscgdmNYSh3gp-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="335" y="132" as="sourcePoint" />
             <mxPoint x="460" y="262" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="35" y="130" />
+              <mxPoint x="-35" y="132" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -475,13 +470,41 @@
             <mxPoint x="335" y="132" as="sourcePoint" />
             <mxPoint x="460" y="262" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="140" y="180" />
+              <mxPoint x="75" y="162" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sSvECwvJscgdmNYSh3gp-13" value="5%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sSvECwvJscgdmNYSh3gp-12">
+        <mxCell id="sSvECwvJscgdmNYSh3gp-13" value="3% - 7%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sSvECwvJscgdmNYSh3gp-12">
           <mxGeometry x="0.76" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSvECwvJscgdmNYSh3gp-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="sSvECwvJscgdmNYSh3gp-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="132" as="sourcePoint" />
+            <mxPoint x="460" y="62" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="185" y="182" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSvECwvJscgdmNYSh3gp-15" value="7% - 8%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sSvECwvJscgdmNYSh3gp-14">
+          <mxGeometry x="0.6332" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSvECwvJscgdmNYSh3gp-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="sSvECwvJscgdmNYSh3gp-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="132" as="sourcePoint" />
+            <mxPoint x="460" y="62" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="315" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSvECwvJscgdmNYSh3gp-17" value="8% - 10%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sSvECwvJscgdmNYSh3gp-16">
+          <mxGeometry x="0.3404" relative="1" as="geometry">
+            <mxPoint x="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sSvECwvJscgdmNYSh3gp-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="sSvECwvJscgdmNYSh3gp-6">
@@ -489,7 +512,7 @@
             <mxPoint x="335" y="132" as="sourcePoint" />
             <mxPoint x="460" y="62" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="263" y="180" />
+              <mxPoint x="440" y="192" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -503,7 +526,7 @@
             <mxPoint x="335" y="132" as="sourcePoint" />
             <mxPoint x="460" y="62" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="170" />
+              <mxPoint x="590" y="182" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -517,7 +540,7 @@
             <mxPoint x="335" y="132" as="sourcePoint" />
             <mxPoint x="460" y="62" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="585" y="180" />
+              <mxPoint x="730" y="162" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -531,13 +554,34 @@
             <mxPoint x="335" y="132" as="sourcePoint" />
             <mxPoint x="460" y="62" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="720" y="132" />
+              <mxPoint x="852" y="132" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sSvECwvJscgdmNYSh3gp-25" value="100%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sSvECwvJscgdmNYSh3gp-24">
+        <mxCell id="sSvECwvJscgdmNYSh3gp-25" value="Больше 97%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sSvECwvJscgdmNYSh3gp-24">
           <mxGeometry x="0.8533" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSvECwvJscgdmNYSh3gp-26" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sSvECwvJscgdmNYSh3gp-2" target="sSvECwvJscgdmNYSh3gp-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="202" as="sourcePoint" />
+            <mxPoint x="290" y="82" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-35" y="322" />
+              <mxPoint x="-90" y="322" />
+              <mxPoint x="-90" y="82" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSvECwvJscgdmNYSh3gp-27" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sSvECwvJscgdmNYSh3gp-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="202" as="sourcePoint" />
+            <mxPoint x="130" y="82" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="185" y="322" />
+              <mxPoint x="130" y="322" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sSvECwvJscgdmNYSh3gp-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sSvECwvJscgdmNYSh3gp-5" target="sSvECwvJscgdmNYSh3gp-38">
@@ -545,299 +589,743 @@
             <mxPoint x="500" y="202" as="sourcePoint" />
             <mxPoint x="420" y="82" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="721" y="320" />
-              <mxPoint x="810" y="322" />
-              <mxPoint x="810" y="180" />
-              <mxPoint x="810" y="40" />
+              <mxPoint x="852" y="322" />
+              <mxPoint x="910" y="322" />
+              <mxPoint x="910" y="82" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sSvECwvJscgdmNYSh3gp-29" value="Далее" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sSvECwvJscgdmNYSh3gp-29" value="Завершение" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="422" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sSvECwvJscgdmNYSh3gp-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sSvECwvJscgdmNYSh3gp-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="482" as="sourcePoint" />
-            <mxPoint x="320" y="450" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="140" y="450" />
-              <mxPoint x="280" y="450" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sSvECwvJscgdmNYSh3gp-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sSvECwvJscgdmNYSh3gp-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="266.5" y="280" as="sourcePoint" />
-            <mxPoint x="384" y="422" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="264" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sSvECwvJscgdmNYSh3gp-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.444;exitY=0.978;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="sSvECwvJscgdmNYSh3gp-7" target="sSvECwvJscgdmNYSh3gp-29">
+        <mxCell id="sSvECwvJscgdmNYSh3gp-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sSvECwvJscgdmNYSh3gp-3" target="sSvECwvJscgdmNYSh3gp-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="482" as="sourcePoint" />
             <mxPoint x="440" y="432" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="75" y="422" />
+              <mxPoint x="200" y="422" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSvECwvJscgdmNYSh3gp-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sSvECwvJscgdmNYSh3gp-8" target="sSvECwvJscgdmNYSh3gp-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="482" as="sourcePoint" />
+            <mxPoint x="440" y="432" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="315" y="372" />
+              <mxPoint x="350" y="372" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSvECwvJscgdmNYSh3gp-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sSvECwvJscgdmNYSh3gp-6" target="sSvECwvJscgdmNYSh3gp-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="482" as="sourcePoint" />
+            <mxPoint x="440" y="432" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="372" />
+              <mxPoint x="380" y="372" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSvECwvJscgdmNYSh3gp-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sSvECwvJscgdmNYSh3gp-7" target="sSvECwvJscgdmNYSh3gp-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="482" as="sourcePoint" />
+            <mxPoint x="440" y="432" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="392" />
               <mxPoint x="410" y="392" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sSvECwvJscgdmNYSh3gp-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sSvECwvJscgdmNYSh3gp-9" target="sSvECwvJscgdmNYSh3gp-29">
+        <mxCell id="sSvECwvJscgdmNYSh3gp-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sSvECwvJscgdmNYSh3gp-9" target="sSvECwvJscgdmNYSh3gp-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="482" as="sourcePoint" />
             <mxPoint x="440" y="432" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="590" y="450" />
-              <mxPoint x="500" y="450" />
+              <mxPoint x="730" y="422" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSvECwvJscgdmNYSh3gp-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="322" as="sourcePoint" />
+            <mxPoint x="130" y="82" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSvECwvJscgdmNYSh3gp-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="322" as="sourcePoint" />
+            <mxPoint x="-90" y="82" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sSvECwvJscgdmNYSh3gp-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="810" y="320" as="sourcePoint" />
-            <mxPoint x="810" y="80" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="810" y="200" />
-            </Array>
+            <mxPoint x="910" y="322" as="sourcePoint" />
+            <mxPoint x="910" y="82" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sSvECwvJscgdmNYSh3gp-38" value="Сопоставление зависимости между рабочим циклом от зарядной станции и предельными значениями тока" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="10" width="230" height="60" as="geometry" />
+          <mxGeometry x="240" y="50" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sSvECwvJscgdmNYSh3gp-39" value="Значение ШИМ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="100" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sSvECwvJscgdmNYSh3gp-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.405;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sSvECwvJscgdmNYSh3gp-2" target="sSvECwvJscgdmNYSh3gp-38">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="40" y="290" />
-              <mxPoint x="40" y="310" />
-              <mxPoint x="-50" y="310" />
-              <mxPoint x="-50" y="34" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sSvECwvJscgdmNYSh3gp-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.575;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sSvECwvJscgdmNYSh3gp-29" target="-VNoUasAL5HjAow1biJY-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sSvECwvJscgdmNYSh3gp-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.429;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Azv_EJB_ocn2BEDv0HQd-1" target="sSvECwvJscgdmNYSh3gp-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sSvECwvJscgdmNYSh3gp-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sSvECwvJscgdmNYSh3gp-44" target="sSvECwvJscgdmNYSh3gp-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sSvECwvJscgdmNYSh3gp-44" value="&lt;span style=&quot;text-align: left;&quot;&gt;В процессе зарядки ЭБУ ЭТС контролирует&amp;nbsp; значения&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;сопротивления (для случая подключения B и C) между точками 3 и PE и рабочий цикл ШИМ-сигнала&amp;nbsp; в точке&amp;nbsp; обнаружения&amp;nbsp; 2,&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: initial; padding: 0px; margin: 0px;&quot;&gt;а&amp;nbsp; ЭБУ питанием контролирует&amp;nbsp; значения н&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: initial; padding: 0px; margin: 0px;&quot;&gt;апряжения в точках 4 и 1 (для режима зарядки 3, случая подключения A и B)&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1200" width="200" height="212.5" as="geometry" />
-        </mxCell>
-        <mxCell id="sSvECwvJscgdmNYSh3gp-47" value="ЭБУ ЭТС и ЭБУ питанием деактивируют функции управления зарядкой" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="1610" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sSvECwvJscgdmNYSh3gp-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sSvECwvJscgdmNYSh3gp-48" target="sSvECwvJscgdmNYSh3gp-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sSvECwvJscgdmNYSh3gp-48" value="Зарядка завершена или условия для ее продолжения не выполнены" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1450" width="180" height="100" as="geometry" />
+          <mxGeometry x="265" y="110" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="L5ey7sO-qDmW8-c1sars" name="Последовательность управления процессом зарядки">
-    <mxGraphModel dx="2760" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="Rsj8hRLzf7WAH9WeG9ze" name="Зарядка">
+    <mxGraphModel dx="1348" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="865T3DmPXxsls_6sSnhb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-1" target="865T3DmPXxsls_6sSnhb-4" edge="1">
+        <mxCell id="gsW6spagCzphynNZVK8T-1" value="&amp;nbsp;Va=+12В&lt;div&gt;ЭТ отсоединён&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="20" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-2" value="Va=9В&amp;nbsp;&lt;div&gt;==&lt;/div&gt;&lt;div&gt;R2=2740 Ом обнаружен&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="120" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-1" target="gsW6spagCzphynNZVK8T-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-1" value="&lt;div&gt;Система ЭТС может активировать определенные триггерные условия&lt;span style=&quot;background-color: initial;&quot;&gt;, чтобы удерживать ЭТС в недвижном состоянии&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="52.5" y="180" width="255" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-2" target="865T3DmPXxsls_6sSnhb-1" edge="1">
+        <mxCell id="gsW6spagCzphynNZVK8T-4" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-2" target="gsW6spagCzphynNZVK8T-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-2" value="&lt;div&gt;&amp;nbsp;Разъем зарядки соединяется&amp;nbsp;&lt;/div&gt;&lt;div&gt;с гнездом ЭТС&amp;nbsp;&lt;/div&gt;&lt;div&gt;(вилка&amp;nbsp; и&amp;nbsp; розетка)&amp;nbsp;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="25" width="310" height="70" as="geometry" />
+        <mxCell id="gsW6spagCzphynNZVK8T-5" value="ЭТ подключён" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="260" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-4" target="865T3DmPXxsls_6sSnhb-2" edge="1">
+        <mxCell id="gsW6spagCzphynNZVK8T-6" value="% цикла&lt;br&gt;для допустимого тока" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="360" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-5" target="gsW6spagCzphynNZVK8T-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-8" value="Управление внебортовой зарядкой / сообщение о допустимом токе бортовой зарядки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="530" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-9" value="Допустимый ток =&amp;nbsp;&lt;div&gt;(% цикла)*0,6 А&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="530" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-10" value="Допустимый ток =&amp;nbsp;&lt;br&gt;( (% цикла) - 64) * 2,5 А" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="530" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-6" target="gsW6spagCzphynNZVK8T-8">
+          <mxGeometry x="0.0019" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-12" value="5%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gsW6spagCzphynNZVK8T-11">
+          <mxGeometry x="0.3864" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-13" value="10% - 85%" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-6" target="gsW6spagCzphynNZVK8T-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="630" y="400" />
-              <mxPoint x="630" y="35" />
+              <mxPoint x="340" y="610" />
+              <mxPoint x="340" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-47" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="865T3DmPXxsls_6sSnhb-6" vertex="1" connectable="0">
-          <mxGeometry x="-0.8671" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-4" target="865T3DmPXxsls_6sSnhb-8" edge="1">
+        <mxCell id="gsW6spagCzphynNZVK8T-14" value="85% - 96%" style="edgeStyle=orthogonalEdgeStyle;rounded=1;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-6" target="gsW6spagCzphynNZVK8T-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-4" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;div&gt;&amp;nbsp;ЭБУ зарядного устройства определяет, полностью&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; ли подключены вилка и розетка, измеряя значения напряжения в точках измерения 2 или 4&lt;/div&gt;&lt;div&gt;(Случаи A и B)&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="25" y="320" width="365" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-8" target="865T3DmPXxsls_6sSnhb-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-34" value="&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(27, 29, 30);&quot;&gt;Полное&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(27, 29, 30);&quot;&gt;подключение&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="865T3DmPXxsls_6sSnhb-12" vertex="1" connectable="0">
-          <mxGeometry x="0.835" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-8" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; ЭБУ ЭТС проверяет полное подключение разъема&amp;nbsp;&lt;div&gt;к гнезду автомобиля,&amp;nbsp; измеряя сопротивление&amp;nbsp;&lt;div&gt;между точкой измерения 3 и PE.&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-7.5" y="540" width="430" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-9" target="865T3DmPXxsls_6sSnhb-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-9" value="&lt;div&gt;&lt;div&gt;S3 замкнут,&lt;/div&gt;&lt;div&gt;&amp;nbsp;CC подключен,&lt;/div&gt;&lt;div&gt;сопротивление между точкой 3 и PE измеряется как RC&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="770" width="180" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-10" target="865T3DmPXxsls_6sSnhb-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-10" value="&lt;div&gt;S3 разомкнут,&lt;/div&gt;&lt;div&gt;&amp;nbsp;CC подключен,&lt;/div&gt;&lt;div&gt;сопротивление между точкой 3 и PE измеряется как RC + RC4&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="121.25" y="770" width="213.75" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-11" target="865T3DmPXxsls_6sSnhb-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-11" value="&lt;div&gt;S3 заммкнут,&lt;/div&gt;&lt;div&gt;&amp;nbsp;CC не подключен,&amp;nbsp;&lt;/div&gt;&lt;div&gt;сопротивление между точкой 3 и PE измеряется как RC.&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="770" width="210" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.407;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="865T3DmPXxsls_6sSnhb-8" target="865T3DmPXxsls_6sSnhb-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-36" value="Частичное подключение" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="865T3DmPXxsls_6sSnhb-17" vertex="1" connectable="0">
-          <mxGeometry x="0.5694" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.42;entryY=-0.043;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="865T3DmPXxsls_6sSnhb-8" target="865T3DmPXxsls_6sSnhb-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-37" value="Подключения нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="865T3DmPXxsls_6sSnhb-19" vertex="1" connectable="0">
-          <mxGeometry x="0.8809" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-21" target="865T3DmPXxsls_6sSnhb-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-33" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="865T3DmPXxsls_6sSnhb-28" vertex="1" connectable="0">
-          <mxGeometry x="-0.4389" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-21" edge="1">
+        <mxCell id="gsW6spagCzphynNZVK8T-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="400" as="targetPoint" />
+            <mxPoint x="30" y="670" as="sourcePoint" />
+            <mxPoint x="340" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="660" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-81" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="865T3DmPXxsls_6sSnhb-80" vertex="1" connectable="0">
-          <mxGeometry x="-0.8715" y="-2" relative="1" as="geometry">
+        <mxCell id="gsW6spagCzphynNZVK8T-16" value="Ключ S2 замкнут" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="670" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-9" target="gsW6spagCzphynNZVK8T-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="630" as="sourcePoint" />
+            <mxPoint x="450" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="630" as="sourcePoint" />
+            <mxPoint x="340" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="610" as="sourcePoint" />
+            <mxPoint x="340" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="720" />
+              <mxPoint x="510" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-20" value="Нет" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;rotation=0;" connectable="0" vertex="1" parent="gsW6spagCzphynNZVK8T-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-21" value="Va&amp;nbsp;&lt;div&gt;==&lt;/div&gt;&lt;div&gt;R3&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="820" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-16" target="gsW6spagCzphynNZVK8T-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="830" as="sourcePoint" />
+            <mxPoint x="470" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-23" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gsW6spagCzphynNZVK8T-22">
+          <mxGeometry x="-0.16" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-21" value="&lt;div&gt;Оборудование не имеет сбоев&lt;/div&gt;&lt;div&gt;&amp;nbsp;и вилка и розетка полностью подключены (для режима 3, случаев A&amp;nbsp;&lt;/div&gt;&lt;div&gt;и&amp;nbsp; Cased&amp;nbsp; B)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="930" width="280" height="100" as="geometry" />
+        <mxCell id="gsW6spagCzphynNZVK8T-24" value="Вентиляция зоны зарядки не требуется" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-27" target="865T3DmPXxsls_6sSnhb-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gsW6spagCzphynNZVK8T-25" value="Требуется вентиляция зоны зарядки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-27" value="&lt;div&gt;Состояние&amp;nbsp; подключения&amp;nbsp; S1&amp;nbsp; переключается&amp;nbsp; с&amp;nbsp; +12&amp;nbsp; В&amp;nbsp; на&amp;nbsp; ШИМ,&amp;nbsp; и&amp;nbsp; блок&amp;nbsp; управления&amp;nbsp;&lt;/div&gt;&lt;div&gt;питанием&amp;nbsp; посылает&amp;nbsp; ШИМ-сигнал&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="115" y="1070" width="230" height="60" as="geometry" />
+        <mxCell id="gsW6spagCzphynNZVK8T-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-21" target="gsW6spagCzphynNZVK8T-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="930" as="sourcePoint" />
+            <mxPoint x="470" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="860" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-29" target="865T3DmPXxsls_6sSnhb-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-29" value="&lt;div&gt;Блок&amp;nbsp; управления&amp;nbsp; ЭТС&amp;nbsp; определяет,&amp;nbsp;&lt;/div&gt;&lt;div&gt;полностью ли подключен комплект зарядного устройства путем измерения значения напряжения в&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;точке 1 или 4&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="98.75" y="1190" width="262.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-30" target="865T3DmPXxsls_6sSnhb-49" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-30" value="&lt;div&gt;Блок&amp;nbsp; управления&amp;nbsp; ЭТС&amp;nbsp; определяет,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;полностью ли подключен комплект зарядных разъемов путем измерения ШИМ-сигнала в точке 2&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="115" y="1290" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-49" target="865T3DmPXxsls_6sSnhb-50" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-49" value="Не обнаружено неисправностей И аккумуляторная батарея находится в состоянии подзарядки" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="1400" width="280" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-50" target="865T3DmPXxsls_6sSnhb-51" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-50" value="ЭБУ ЭТС закрывает S2" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="155" y="1580" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-51" target="865T3DmPXxsls_6sSnhb-52" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-56" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="865T3DmPXxsls_6sSnhb-55" vertex="1" connectable="0">
-          <mxGeometry x="0.2486" y="1" relative="1" as="geometry">
+        <mxCell id="gsW6spagCzphynNZVK8T-27" value="6В&lt;br&gt;==&lt;br&gt;1300 Ом" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gsW6spagCzphynNZVK8T-26">
+          <mxGeometry x="-0.4636" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-51" target="865T3DmPXxsls_6sSnhb-59" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-62" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="865T3DmPXxsls_6sSnhb-61" vertex="1" connectable="0">
-          <mxGeometry x="-0.2237" y="-3" relative="1" as="geometry">
-            <mxPoint x="3" y="-17" as="offset" />
+        <mxCell id="gsW6spagCzphynNZVK8T-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-21" target="gsW6spagCzphynNZVK8T-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="930" as="sourcePoint" />
+            <mxPoint x="470" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="860" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-51" value="ЭТС оснащено функцией &quot;Запрос зарядки&quot;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="158.13" y="1680" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-52" target="865T3DmPXxsls_6sSnhb-59" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-52" value="ЭТС должно находиться в состоянии &quot;запрос зарядки&quot;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-126.87" y="1690" width="215" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-59" target="865T3DmPXxsls_6sSnhb-60" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-58" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="865T3DmPXxsls_6sSnhb-57" vertex="1" connectable="0">
-          <mxGeometry x="0.2486" y="1" relative="1" as="geometry">
+        <mxCell id="gsW6spagCzphynNZVK8T-29" value="3В&lt;br&gt;==&lt;br&gt;270 Ом" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gsW6spagCzphynNZVK8T-28">
+          <mxGeometry x="-0.4727" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-59" target="865T3DmPXxsls_6sSnhb-64" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gsW6spagCzphynNZVK8T-30" value="% цикла для тока зарядки" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1050" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-66" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="865T3DmPXxsls_6sSnhb-65" vertex="1" connectable="0">
-          <mxGeometry x="-0.0891" y="2" relative="1" as="geometry">
-            <mxPoint y="-12" as="offset" />
+        <mxCell id="gsW6spagCzphynNZVK8T-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-25" target="gsW6spagCzphynNZVK8T-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1130" as="sourcePoint" />
+            <mxPoint x="470" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="1100" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-59" value="ЭТС оснащено функцией &quot;Управление зарядкой&quot;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="137.19" y="1830" width="181.87" height="80" as="geometry" />
+        <mxCell id="gsW6spagCzphynNZVK8T-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-24" target="gsW6spagCzphynNZVK8T-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1130" as="sourcePoint" />
+            <mxPoint x="470" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="1100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-60" target="865T3DmPXxsls_6sSnhb-64" edge="1">
+        <mxCell id="gsW6spagCzphynNZVK8T-33" value="aka Цифровая коммуникация" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="600" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-34" value="Зарядка запрещена" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1260" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-35" value="Цифровая коммуникация" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1260" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-36" value="Зарядка запрещена" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1260" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-37" value="Зарядка запрещена" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1260" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-38" value="Ток зарядки =&amp;nbsp;&lt;div&gt;(% цикла)*0,6 А&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1262.5" width="105" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-39" value="Ток зарядки =&amp;nbsp;&lt;div&gt;(% цикла - 64)*2,5 А&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-40" value="Ток зарядки = 6 А" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1265" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-41" value="Ток зарядки = 80 А" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-30" target="gsW6spagCzphynNZVK8T-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1330" as="sourcePoint" />
+            <mxPoint x="470" y="1280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-25" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-43" value="До 3%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gsW6spagCzphynNZVK8T-42">
+          <mxGeometry x="0.8167" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-30" target="gsW6spagCzphynNZVK8T-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="1150" as="sourcePoint" />
+            <mxPoint x="470" y="1280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85" y="1180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-45" value="3% - 7%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gsW6spagCzphynNZVK8T-44">
+          <mxGeometry x="0.76" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-30" target="gsW6spagCzphynNZVK8T-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1130" as="sourcePoint" />
+            <mxPoint x="470" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="195" y="1200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-47" value="7% - 8%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gsW6spagCzphynNZVK8T-46">
+          <mxGeometry x="0.6332" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-30" target="gsW6spagCzphynNZVK8T-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1130" as="sourcePoint" />
+            <mxPoint x="470" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="325" y="1210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-49" value="8% - 10%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gsW6spagCzphynNZVK8T-48">
+          <mxGeometry x="0.3404" relative="1" as="geometry">
+            <mxPoint x="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-30" target="gsW6spagCzphynNZVK8T-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1130" as="sourcePoint" />
+            <mxPoint x="470" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="463" y="1200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-51" value="10% - 85%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gsW6spagCzphynNZVK8T-50">
+          <mxGeometry x="0.5644" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-30" target="gsW6spagCzphynNZVK8T-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1130" as="sourcePoint" />
+            <mxPoint x="470" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="1200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-53" value="85% - 96%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gsW6spagCzphynNZVK8T-52">
+          <mxGeometry x="0.7436" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-30" target="gsW6spagCzphynNZVK8T-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1130" as="sourcePoint" />
+            <mxPoint x="470" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="1180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-55" value="96% - 97%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gsW6spagCzphynNZVK8T-54">
+          <mxGeometry x="0.8236" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-30" target="gsW6spagCzphynNZVK8T-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1130" as="sourcePoint" />
+            <mxPoint x="470" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="862" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-57" value="Больше 97%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gsW6spagCzphynNZVK8T-56">
+          <mxGeometry x="0.8533" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-58" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Если ШИМ 8% - 97%, максимальный ток не может быть больше допустимого, даже если ШИМ говорит об обратном&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="980" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-59" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="1220" as="sourcePoint" />
+            <mxPoint x="170" y="1100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-25" y="1340" />
+              <mxPoint x="-80" y="1340" />
+              <mxPoint x="-80" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-60" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="1220" as="sourcePoint" />
+            <mxPoint x="140" y="1100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="195" y="1340" />
+              <mxPoint x="140" y="1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-61" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="1220" as="sourcePoint" />
+            <mxPoint x="510" y="1100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="862" y="1340" />
+              <mxPoint x="920" y="1340" />
+              <mxPoint x="920" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-62" value="Запрос на снижение энергии" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-35" target="gsW6spagCzphynNZVK8T-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1500" as="sourcePoint" />
+            <mxPoint x="450" y="1450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85" y="1440" />
+              <mxPoint x="210" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-40" target="gsW6spagCzphynNZVK8T-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1500" as="sourcePoint" />
+            <mxPoint x="450" y="1450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="325" y="1390" />
+              <mxPoint x="360" y="1390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-38" target="gsW6spagCzphynNZVK8T-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1500" as="sourcePoint" />
+            <mxPoint x="450" y="1450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="1390" />
+              <mxPoint x="390" y="1390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-39" target="gsW6spagCzphynNZVK8T-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1500" as="sourcePoint" />
+            <mxPoint x="450" y="1450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="1410" />
+              <mxPoint x="420" y="1410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-41" target="gsW6spagCzphynNZVK8T-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1500" as="sourcePoint" />
+            <mxPoint x="450" y="1450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-68" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Зависит от состояния батареи либо от ручной установки на зарядной станции&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1440" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-69" value="Конец зарядки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-62" target="gsW6spagCzphynNZVK8T-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1500" as="sourcePoint" />
+            <mxPoint x="450" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-71" value="Запрос на отсоединение" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-72" value="Va=9В&lt;div&gt;==&lt;/div&gt;&lt;div&gt;S2 разомкнут&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="1770" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-69" target="gsW6spagCzphynNZVK8T-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1800" as="sourcePoint" />
+            <mxPoint x="450" y="1750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-71" target="gsW6spagCzphynNZVK8T-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1800" as="sourcePoint" />
+            <mxPoint x="450" y="1750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-2" target="gsW6spagCzphynNZVK8T-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="130" as="sourcePoint" />
+            <mxPoint x="400" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="175" />
+              <mxPoint x="480" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-76" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gsW6spagCzphynNZVK8T-75">
+          <mxGeometry x="-0.1805" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-77" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="1340" as="sourcePoint" />
+            <mxPoint x="140" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-78" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="1340" as="sourcePoint" />
+            <mxPoint x="-80" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-79" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="1340" as="sourcePoint" />
+            <mxPoint x="920" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-80" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="1010" as="sourcePoint" />
+            <mxPoint x="170" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-81" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="1010" as="sourcePoint" />
+            <mxPoint x="510" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-82" value="Зарядка отключена" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-83" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-72" target="gsW6spagCzphynNZVK8T-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="1860" as="sourcePoint" />
+            <mxPoint x="420" y="1810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-84" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gsW6spagCzphynNZVK8T-83">
+          <mxGeometry x="-0.1632" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-72" target="gsW6spagCzphynNZVK8T-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="1860" as="sourcePoint" />
+            <mxPoint x="420" y="1810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="1815" />
+              <mxPoint x="500" y="1690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-86" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gsW6spagCzphynNZVK8T-85">
+          <mxGeometry x="-0.3989" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-87" value="Va=12В" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="2010" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-82" target="gsW6spagCzphynNZVK8T-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="2080" as="sourcePoint" />
+            <mxPoint x="420" y="2030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-89" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-87" target="gsW6spagCzphynNZVK8T-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="2080" as="sourcePoint" />
+            <mxPoint x="420" y="2030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="2050" />
+              <mxPoint x="480" y="1930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-90" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gsW6spagCzphynNZVK8T-89">
+          <mxGeometry x="-0.8384" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-91" value="ЭТ отсоединён" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsW6spagCzphynNZVK8T-87" target="gsW6spagCzphynNZVK8T-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="2080" as="sourcePoint" />
+            <mxPoint x="420" y="2030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gsW6spagCzphynNZVK8T-93" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gsW6spagCzphynNZVK8T-92">
+          <mxGeometry x="-0.1411" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VSkOXgIu2qcnXEJgfQA0-67" target="VSkOXgIu2qcnXEJgfQA0-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-60" value="ЭТС должно находиться в состоянии &quot;управление зарядкой&quot;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="1840" width="215" height="60" as="geometry" />
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-67" value="ЭТС подключен соединительным кабелем с оборудованием" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="897" y="165" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-64" target="865T3DmPXxsls_6sSnhb-70" edge="1">
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-68" value="После отсоединения вилки и розетки или S1 с задержкой переключается в +12В" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1347" y="52.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-69" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Блокирующее устройство EVSE должно разблокировать штекер (для случаев A и B&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Подключение) максимум на 5 с после перехода в состояние 1 на 100 мс.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Заглушка должна быть разблокирована только при выполнении обоих следующих&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;требований, т.е. при переходе в состояние 1 и повторном получении авторизации пользователя, если блокирующее устройство было активировано в результате авторизации пользователя&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="165" width="450" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VSkOXgIu2qcnXEJgfQA0-67" target="VSkOXgIu2qcnXEJgfQA0-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-64" value="ЭБУ станции определяет готовность путем измерения напряжения в точке 1:&lt;div&gt;пиковое значение напряжения равно значению в сост.3&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="1960" width="260" height="110" as="geometry" />
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VSkOXgIu2qcnXEJgfQA0-73" target="VSkOXgIu2qcnXEJgfQA0-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1187" y="514" />
+              <mxPoint x="1187" y="435" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="865T3DmPXxsls_6sSnhb-70" value="ЭБУ подает напряжение в цепь, замыкая контакты К1 К2" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="159.06" y="2120" width="141.87" height="60" as="geometry" />
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VSkOXgIu2qcnXEJgfQA0-73" target="VSkOXgIu2qcnXEJgfQA0-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1187" y="514" />
+              <mxPoint x="1187" y="575" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="FdZrIuBGv6vU3EPVmL-b-1" value="&lt;div&gt;ЭБУ ЭТС п&lt;span style=&quot;background-color: initial;&quot;&gt;одтверждает максимальную мощность питания станции, определяя рабочий&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;цикл ШИМ-сигнала&amp;nbsp; в&amp;nbsp; точке&amp;nbsp; &amp;nbsp;2,&amp;nbsp; и&amp;nbsp; подтверждает номинальную&amp;nbsp; мощность&amp;nbsp; кабеля,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;определяя&amp;nbsp; значение&amp;nbsp; сопротивления между&amp;nbsp; точкой 3&amp;nbsp; и&amp;nbsp; PE.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="77.19" y="2228" width="301.87" height="110" as="geometry" />
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-73" value="Отключение в процессе зарядки" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="897" y="454" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="FdZrIuBGv6vU3EPVmL-b-3" value="&lt;span style=&quot;background-color: initial;&quot;&gt;ЭБУ ЭТС с&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;равнивает максимальное значение тока питания, подаваемого в настоящее время станцией,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;номинальное значение входного&amp;nbsp; тока бортового&amp;nbsp; зарядного&amp;nbsp; устройства&amp;nbsp; и&amp;nbsp; номинальную&amp;nbsp; емкость&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;кабеля,&amp;nbsp; и&amp;nbsp; минимальное&amp;nbsp; значение&amp;nbsp; устанавливается&amp;nbsp; в&amp;nbsp; качестве&amp;nbsp; максимально допустимого&amp;nbsp; входного&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;тока бортового зарядного устройства.&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="2370" width="290" height="120" as="geometry" />
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-74" value="&lt;h2&gt;2&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1287" y="52.5" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VSkOXgIu2qcnXEJgfQA0-76" target="VSkOXgIu2qcnXEJgfQA0-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1232" y="65" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-76" value="&lt;h2&gt;1&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1217" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-77" value="&lt;h2&gt;1&#39;&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1197" y="235" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VSkOXgIu2qcnXEJgfQA0-79" target="VSkOXgIu2qcnXEJgfQA0-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-79" value="Отсоединены вилка и розетка или сцепное устройство отключено" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1277" y="385" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VSkOXgIu2qcnXEJgfQA0-81" target="VSkOXgIu2qcnXEJgfQA0-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-81" value="В процессе зарядки ОЭТС отключает цепь питания переменного тока под нагрузкой" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1607" y="395" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-82" value="&lt;h2&gt;2&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1747" y="82.5" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VSkOXgIu2qcnXEJgfQA0-84" target="VSkOXgIu2qcnXEJgfQA0-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1692" y="95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-84" value="&lt;h2&gt;1&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1677" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-85" value="&lt;h2&gt;2&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1767" y="102.5" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VSkOXgIu2qcnXEJgfQA0-87" target="VSkOXgIu2qcnXEJgfQA0-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1712" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-87" value="&lt;h2&gt;1&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1697" y="100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-88" value="&lt;h2&gt;1&#39;&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1557" y="397.5" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VSkOXgIu2qcnXEJgfQA0-90" target="VSkOXgIu2qcnXEJgfQA0-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1507" y="405" />
+              <mxPoint x="1507" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-90" value="&lt;h2&gt;3&#39;&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1497" y="395" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-91" value="&amp;lt;100ms" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1622" y="483" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-92" value="Выход ШИМ отключается с задержкой" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1827" y="410" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-93" value="ЭТС отключен" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1287" y="525" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-94" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: -apple-system, Roboto, sans-serif; font-size: 14px; text-align: start; white-space-collapse: preserve; background-color: rgba(239, 244, 255, 0.1);&quot;&gt;Запирающее устройство EVSE должно разблокировать штекер (для случаев A и B) макс на 5 с после перехода в состояние 1 на 100 мс. &lt;br&gt;Заглушка должна быть разблокирована только при выполнении обоих следующих&lt;br&gt;требований, т.е. при переходе в состояние 1 и повторном получении авторизации пользователя, если&lt;br&gt;блокирующее устройство было активировано в результате авторизации пользователя&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1687" y="513" width="410" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-95" value="&lt;h2&gt;1 или 1&#39;&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1507" y="530" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSkOXgIu2qcnXEJgfQA0-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.021;entryY=0.368;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VSkOXgIu2qcnXEJgfQA0-93" target="VSkOXgIu2qcnXEJgfQA0-94">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
