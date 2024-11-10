@@ -643,7 +643,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="L5ey7sO-qDmW8-c1sars" name="Последовательность управления процессом зарядки">
-    <mxGraphModel dx="3727" dy="1705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1987" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -676,7 +676,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="865T3DmPXxsls_6sSnhb-4" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;div&gt;&amp;nbsp;ЭБУ зарядного устройства определяет, полностью&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; ли подключены вилка и розетка, измеряя значения напряжения в точках измерения 2 или 4&lt;/div&gt;&lt;div&gt;(Случаи A и B)&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="25" y="320" width="365" height="160" as="geometry" />
+          <mxGeometry x="-2.5" y="320" width="365" height="160" as="geometry" />
         </mxCell>
         <mxCell id="865T3DmPXxsls_6sSnhb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-8" target="865T3DmPXxsls_6sSnhb-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
