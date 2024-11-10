@@ -670,7 +670,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="L5ey7sO-qDmW8-c1sars" name="Последовательность управления процессом зарядки">
-    <mxGraphModel dx="2598" dy="2517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2209" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -939,13 +939,77 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rdpsurpRp2WKPjppHmbc-17" value="В процессе зарядки получен ШИМ сигнал от точки 2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="72.96" y="3377" width="274.69" height="130" as="geometry" />
+          <mxGeometry x="115.32" y="3377" width="190" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="rdpsurpRp2WKPjppHmbc-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="3980" width="120" height="60" as="geometry" />
+        <mxCell id="rdpsurpRp2WKPjppHmbc-27" value="Состояние соединения вилки и розетки с ЭТС подтверждается для ЭБУ ЭТС периодинческим контролем точек 2 и 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="161.25" y="3860" width="248.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rdpsurpRp2WKPjppHmbc-28" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;Проверка состояния подключения вилки и розетки, изменение мощности питания зарядкой станции&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="-899.38" y="3660" width="588.75" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rdpsurpRp2WKPjppHmbc-29" value="Состояние соединения вилки и розетки с ЭТС подтверждается для ЭБУ станции периодинческим контролем точек 1 и 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="161.25" y="4012" width="248.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rdpsurpRp2WKPjppHmbc-30" value="Ц&lt;span style=&quot;background-color: initial;&quot;&gt;икл контроля не превышает 50мс&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="3885" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rdpsurpRp2WKPjppHmbc-31" value="ЭБУ ЭТС осуществляет непрерывное обнаружение ШИМ-сигнала в точке 2 и регулировку выходной мощности бортового зарядного устройства в реальном времени на основе работчего цикла ШИМ при его изменении" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="161.25" y="4190" width="288.75" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rdpsurpRp2WKPjppHmbc-32" value="Ц&lt;span style=&quot;background-color: initial;&quot;&gt;икл контроля не превышает 50мс&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="4037" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rdpsurpRp2WKPjppHmbc-33" value="Ц&lt;span style=&quot;background-color: initial;&quot;&gt;икл обнаружения не превышает 5с&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="4210" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rdpsurpRp2WKPjppHmbc-34" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;i&gt;Прекращение/остановка зарядки в нормальных условиях&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="-879.37" y="4440" width="609.37" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="O-1TmALYl-uiyicFpdDV-3" value="Выполнены условия прекращения зарядки для ЭТС&amp;nbsp;&lt;div&gt;ИЛИ&lt;/div&gt;&lt;div&gt;Водитель подает ЭТС команду &quot;прекратить зарядку&quot;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75.63" y="4470" width="420" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="O-1TmALYl-uiyicFpdDV-4" value="ЭБУ ЭТС открывает S2 и переводит бортовое зарядное устройство в состояние &quot;прекращение зарядки&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="174.85" y="4740" width="221.56" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="O-1TmALYl-uiyicFpdDV-6" value="Выполнены условия завершения зарядки, заданные оператором&amp;nbsp;&lt;div&gt;И&lt;/div&gt;&lt;div&gt;Оператор подает станции команду &quot;прекратить зарядку&quot;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75.63" y="4960" width="420" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="O-1TmALYl-uiyicFpdDV-7" value="ЭБУ питанием переключает S1 в состояние +12В" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="194.84" y="5216" width="221.56" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="O-1TmALYl-uiyicFpdDV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="O-1TmALYl-uiyicFpdDV-8" target="O-1TmALYl-uiyicFpdDV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-1TmALYl-uiyicFpdDV-12" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O-1TmALYl-uiyicFpdDV-10">
+          <mxGeometry x="0.1017" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-1TmALYl-uiyicFpdDV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O-1TmALYl-uiyicFpdDV-8" target="O-1TmALYl-uiyicFpdDV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-1TmALYl-uiyicFpdDV-15" value="Нет (в течение 3)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O-1TmALYl-uiyicFpdDV-14">
+          <mxGeometry x="-0.0976" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-1TmALYl-uiyicFpdDV-8" value="Обнаружение размыкания S2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200.62" y="5370" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="O-1TmALYl-uiyicFpdDV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O-1TmALYl-uiyicFpdDV-9" target="O-1TmALYl-uiyicFpdDV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-1TmALYl-uiyicFpdDV-9" value="Цепь питания переменного тока отключена размыканием К1 и К2 в течение 100мс" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="38.75999999999999" y="5590" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-1TmALYl-uiyicFpdDV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O-1TmALYl-uiyicFpdDV-13" target="O-1TmALYl-uiyicFpdDV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-1TmALYl-uiyicFpdDV-13" value="Цепь питания переменного тока отключена путем принудительного размыкания К1 и К2 под агрузкой" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="5585" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="O-1TmALYl-uiyicFpdDV-16" value="Электроблокировки вилки и розетки разблокируются через 100мс" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245.63" y="5760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
