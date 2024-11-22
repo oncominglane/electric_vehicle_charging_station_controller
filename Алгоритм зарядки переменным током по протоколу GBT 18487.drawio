@@ -628,7 +628,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="L5ey7sO-qDmW8-c1sars" name="Последовательность управления процессом зарядки">
-    <mxGraphModel dx="3373" dy="1694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3254" dy="1624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -685,7 +685,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OtgqTg0IWu0x1teXSYlj-4" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h8MI32EZhoV8QFpBgOVt-2">
+        <mxCell id="OtgqTg0IWu0x1teXSYlj-4" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="h8MI32EZhoV8QFpBgOVt-2" vertex="1" connectable="0">
           <mxGeometry x="0.3531" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -709,12 +709,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OtgqTg0IWu0x1teXSYlj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="865T3DmPXxsls_6sSnhb-8">
+        <mxCell id="OtgqTg0IWu0x1teXSYlj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="604.5789473684213" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OtgqTg0IWu0x1teXSYlj-2" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OtgqTg0IWu0x1teXSYlj-1">
+        <mxCell id="OtgqTg0IWu0x1teXSYlj-2" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="OtgqTg0IWu0x1teXSYlj-1" vertex="1" connectable="0">
           <mxGeometry x="-0.1743" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -789,17 +789,17 @@
         <mxCell id="865T3DmPXxsls_6sSnhb-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-49" target="865T3DmPXxsls_6sSnhb-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-2" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="865T3DmPXxsls_6sSnhb-72">
+        <mxCell id="aMy_s09rXomY22jvARsg-2" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="865T3DmPXxsls_6sSnhb-72" vertex="1" connectable="0">
           <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="865T3DmPXxsls_6sSnhb-49">
+        <mxCell id="aMy_s09rXomY22jvARsg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="865T3DmPXxsls_6sSnhb-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-3" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aMy_s09rXomY22jvARsg-1">
+        <mxCell id="aMy_s09rXomY22jvARsg-3" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aMy_s09rXomY22jvARsg-1" vertex="1" connectable="0">
           <mxGeometry x="-0.7805" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -889,7 +889,7 @@
         <mxCell id="rdpsurpRp2WKPjppHmbc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FdZrIuBGv6vU3EPVmL-b-3" target="rdpsurpRp2WKPjppHmbc-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FdZrIuBGv6vU3EPVmL-b-3" value="&lt;span style=&quot;background-color: initial;&quot;&gt;ЭБУ ЭТС с&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;равнивает максимальное значение тока питания, подаваемого в настоящее время станцией,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;номинальное значение входного&amp;nbsp; тока бортового&amp;nbsp; зарядного&amp;nbsp; устройства&amp;nbsp; и&amp;nbsp; номинальную&amp;nbsp; емкость&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;кабеля,&amp;nbsp; и&amp;nbsp; минимальное&amp;nbsp; значение&amp;nbsp; устанавливается&amp;nbsp; в&amp;nbsp; качестве&amp;nbsp; максимально допустимого&amp;nbsp; входного&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;тока бортового зарядного устройства.&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FdZrIuBGv6vU3EPVmL-b-3" value="&lt;span style=&quot;background-color: initial;&quot;&gt;ЭБУ ЭТС с&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;равнивает максимальное значение тока питания, подаваемого в настоящее время станцией,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;номинальное значение входного&amp;nbsp; тока бортового&amp;nbsp; зарядного&amp;nbsp; устройства&amp;nbsp; и&amp;nbsp; номинальную&lt;/span&gt;&amp;nbsp;проводимость кабеля&lt;span style=&quot;background-color: initial;&quot;&gt;,&amp;nbsp; и&amp;nbsp; минимальное&amp;nbsp; значение&amp;nbsp; устанавливается&amp;nbsp; в&amp;nbsp; качестве&amp;nbsp; максимально допустимого&amp;nbsp; входного&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;тока бортового зарядного устройства.&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="35.31999999999999" y="2740" width="290" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fk-MnctCyBJSVbWkX-rV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fk-MnctCyBJSVbWkX-rV-1" target="865T3DmPXxsls_6sSnhb-2" edge="1">
@@ -900,8 +900,8 @@
             <mxGeometry x="75" y="-400" width="210" height="85" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="qIo23gf_nuPvY0l7gyJl-1" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;i&gt;Коннектор кабеля соединяется с гнездом ЭТС, чтобы&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;i&gt;удерживать транспортное средство в недвижном состоянии&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-742.1800000000001" width="494.99" height="60" as="geometry" />
+        <mxCell id="qIo23gf_nuPvY0l7gyJl-1" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;i&gt;Коннектор кабеля соединяется с гнездом ЭТС, чтобы&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;i&gt;удерживать транспортное средство в недвижном состоянии&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-780" width="532.81" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rdpsurpRp2WKPjppHmbc-1" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Проверка ЭБУ станции:&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;вилка и розетка полностью подключены&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="-775.61" y="375" width="540" height="50" as="geometry" />
@@ -977,7 +977,7 @@
         <mxCell id="rdpsurpRp2WKPjppHmbc-28" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Проверка состояния подключения вилки и розетки, изменение мощности питания зарядкой станции&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="-775.61" y="3660" width="599.37" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="OtgqTg0IWu0x1teXSYlj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rdpsurpRp2WKPjppHmbc-29" target="rdpsurpRp2WKPjppHmbc-31">
+        <mxCell id="OtgqTg0IWu0x1teXSYlj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rdpsurpRp2WKPjppHmbc-29" target="rdpsurpRp2WKPjppHmbc-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rdpsurpRp2WKPjppHmbc-29" value="Состояние соединения вилки и розетки с ЭТС подтверждается для ЭБУ станции периодинческим контролем точек 1 и 4" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -986,7 +986,7 @@
         <mxCell id="rdpsurpRp2WKPjppHmbc-30" value="Ц&lt;span style=&quot;background-color: initial;&quot;&gt;икл контроля не превышает 50мс&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="3660" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OtgqTg0IWu0x1teXSYlj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rdpsurpRp2WKPjppHmbc-31" target="O-1TmALYl-uiyicFpdDV-3">
+        <mxCell id="OtgqTg0IWu0x1teXSYlj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rdpsurpRp2WKPjppHmbc-31" target="O-1TmALYl-uiyicFpdDV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rdpsurpRp2WKPjppHmbc-31" value="ЭБУ ЭТС осуществляет непрерывное обнаружение ШИМ-сигнала в точке 2 и регулировку выходной мощности бортового зарядного устройства в реальном времени на основе работчего цикла ШИМ при его изменении" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1004,7 +1004,7 @@
         <mxCell id="Z04U8jFi2-B_5d0oEj12-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O-1TmALYl-uiyicFpdDV-3" target="O-1TmALYl-uiyicFpdDV-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-5" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z04U8jFi2-B_5d0oEj12-9">
+        <mxCell id="aMy_s09rXomY22jvARsg-5" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Z04U8jFi2-B_5d0oEj12-9" vertex="1" connectable="0">
           <mxGeometry x="-0.2065" y="-4" relative="1" as="geometry">
             <mxPoint x="5" as="offset" />
           </mxGeometry>
@@ -1012,7 +1012,7 @@
         <mxCell id="O-1TmALYl-uiyicFpdDV-3" value="Выполнены условия прекращения зарядки для ЭТС&amp;nbsp;&lt;div&gt;ИЛИ&lt;/div&gt;&lt;div&gt;Водитель подает ЭТС команду &quot;прекратить зарядку&quot;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-27.49000000000001" y="4420" width="420" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="OtgqTg0IWu0x1teXSYlj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O-1TmALYl-uiyicFpdDV-4" target="O-1TmALYl-uiyicFpdDV-6">
+        <mxCell id="OtgqTg0IWu0x1teXSYlj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="O-1TmALYl-uiyicFpdDV-4" target="O-1TmALYl-uiyicFpdDV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O-1TmALYl-uiyicFpdDV-4" value="ЭБУ ЭТС открывает S2 и переводит бортовое зарядное устройство в состояние &quot;прекращение зарядки&quot;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1049,7 +1049,7 @@
         <mxCell id="O-1TmALYl-uiyicFpdDV-8" value="Обнаружение размыкания S2" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="78.44" y="5560" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="OtgqTg0IWu0x1teXSYlj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O-1TmALYl-uiyicFpdDV-9" target="O-1TmALYl-uiyicFpdDV-16">
+        <mxCell id="OtgqTg0IWu0x1teXSYlj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="O-1TmALYl-uiyicFpdDV-9" target="O-1TmALYl-uiyicFpdDV-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-10" y="5890" />
@@ -1060,7 +1060,7 @@
         <mxCell id="O-1TmALYl-uiyicFpdDV-9" value="Цепь питания переменного тока отключена размыканием К1 и К2 в течение 100мс" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-125" y="5745" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OtgqTg0IWu0x1teXSYlj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O-1TmALYl-uiyicFpdDV-13" target="O-1TmALYl-uiyicFpdDV-16">
+        <mxCell id="OtgqTg0IWu0x1teXSYlj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="O-1TmALYl-uiyicFpdDV-13" target="O-1TmALYl-uiyicFpdDV-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="358" y="5890" />
@@ -1080,10 +1080,7 @@
         <mxCell id="tmyLZ3SQGPF__Pfs4xNL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="rdpsurpRp2WKPjppHmbc-28" target="rdpsurpRp2WKPjppHmbc-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X5bdcgWuElzv3icmcX5R-6" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ff2f0f&quot;&gt;емкость у кабеля, коненчно есть, но надо выбрать более правильный перевод&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="2740" width="405" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="F30CnMvk7mIkuqzITVK9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.001;entryY=0.471;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qIo23gf_nuPvY0l7gyJl-1">
+        <mxCell id="F30CnMvk7mIkuqzITVK9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.001;entryY=0.471;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="qIo23gf_nuPvY0l7gyJl-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-969.3699999999999" y="28.980000000000018" as="targetPoint" />
             <Array as="points">
@@ -1091,125 +1088,128 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OtgqTg0IWu0x1teXSYlj-6" value="&lt;ol&gt;&lt;li&gt;&lt;p style=&quot;margin-left: 36pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span lang=&quot;EN-US&quot;&gt;Vehicle connector&lt;/span&gt;&lt;/b&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;br&gt;&lt;/span&gt;Оригинал&lt;span lang=&quot;EN-US&quot;&gt;:&amp;nbsp;&lt;i&gt;&quot;Movable part of a vehicle coupler integral with, and intended to be attached to the charging cable.&quot;&lt;/i&gt;&lt;br&gt;&lt;/span&gt;Перевод:&amp;nbsp;&lt;b&gt;&quot;Разъем транспортного средства&quot;&lt;/b&gt;&amp;nbsp;— подвижная часть соединителя, являющаяся неотъемлемой частью зарядного кабеля и предназначенная для его подключения.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;margin-left: 36pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span lang=&quot;EN-US&quot;&gt;Vehicle inlet&lt;/span&gt;&lt;/b&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;br&gt;&lt;/span&gt;Оригинал&lt;span lang=&quot;EN-US&quot;&gt;:&amp;nbsp;&lt;i&gt;&quot;Part of a vehicle coupler incorporated in the electric vehicle, and interconnecting cable with on-board charger or on-board traction battery.&quot;&lt;/i&gt;&lt;br&gt;&lt;/span&gt;Перевод:&amp;nbsp;&lt;b&gt;&quot;Гнездо транспортного средства&quot;&lt;/b&gt;&amp;nbsp;— часть соединителя, встроенная в электротранспортное средство, которая обеспечивает подключение кабеля к встроенному зарядному устройству или тяговой батарее.&lt;span style=&quot;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Эти термины обозначают два элемента системы зарядки:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0cm;&quot; type=&quot;disc&quot;&gt;&lt;li class=&quot;MsoNormal&quot;&gt;&lt;b&gt;Vehicle connector&lt;/b&gt;&amp;nbsp;— это разъем на конце зарядного кабеля, который подключается к автомобилю.&lt;/li&gt;&lt;li class=&quot;MsoNormal&quot;&gt;&lt;b&gt;Vehicle inlet&lt;/b&gt;&amp;nbsp;— это порт на самом автомобиле, куда подключается разъем.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Разъем (connector) — это активный элемент кабеля, а гнездо (inlet) — это встроенный элемент автомобиля.&lt;/p&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;gradientColor=none;align=left;" vertex="1" parent="1">
+        <mxCell id="OtgqTg0IWu0x1teXSYlj-6" value="&lt;ol&gt;&lt;li&gt;&lt;p style=&quot;margin-left: 36pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span lang=&quot;EN-US&quot;&gt;Vehicle connector&lt;/span&gt;&lt;/b&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;br&gt;&lt;/span&gt;Оригинал&lt;span lang=&quot;EN-US&quot;&gt;:&amp;nbsp;&lt;i&gt;&quot;Movable part of a vehicle coupler integral with, and intended to be attached to the charging cable.&quot;&lt;/i&gt;&lt;br&gt;&lt;/span&gt;Перевод:&amp;nbsp;&lt;b&gt;&quot;Разъем транспортного средства&quot;&lt;/b&gt;&amp;nbsp;— подвижная часть соединителя, являющаяся неотъемлемой частью зарядного кабеля и предназначенная для его подключения.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;margin-left: 36pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span lang=&quot;EN-US&quot;&gt;Vehicle inlet&lt;/span&gt;&lt;/b&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;br&gt;&lt;/span&gt;Оригинал&lt;span lang=&quot;EN-US&quot;&gt;:&amp;nbsp;&lt;i&gt;&quot;Part of a vehicle coupler incorporated in the electric vehicle, and interconnecting cable with on-board charger or on-board traction battery.&quot;&lt;/i&gt;&lt;br&gt;&lt;/span&gt;Перевод:&amp;nbsp;&lt;b&gt;&quot;Гнездо транспортного средства&quot;&lt;/b&gt;&amp;nbsp;— часть соединителя, встроенная в электротранспортное средство, которая обеспечивает подключение кабеля к встроенному зарядному устройству или тяговой батарее.&lt;span style=&quot;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Эти термины обозначают два элемента системы зарядки:&lt;/p&gt;&lt;ul style=&quot;margin-top: 0cm;&quot; type=&quot;disc&quot;&gt;&lt;li class=&quot;MsoNormal&quot;&gt;&lt;b&gt;Vehicle connector&lt;/b&gt;&amp;nbsp;— это разъем на конце зарядного кабеля, который подключается к автомобилю.&lt;/li&gt;&lt;li class=&quot;MsoNormal&quot;&gt;&lt;b&gt;Vehicle inlet&lt;/b&gt;&amp;nbsp;— это порт на самом автомобиле, куда подключается разъем.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Разъем (connector) — это активный элемент кабеля, а гнездо (inlet) — это встроенный элемент автомобиля.&lt;/p&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;gradientColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="-1670" y="-155" width="700" height="315" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OtgqTg0IWu0x1teXSYlj-19" target="aMy_s09rXomY22jvARsg-6">
+        <mxCell id="aMy_s09rXomY22jvARsg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OtgqTg0IWu0x1teXSYlj-19" target="aMy_s09rXomY22jvARsg-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OtgqTg0IWu0x1teXSYlj-19" value="&lt;div&gt;&amp;nbsp;В процессе зарядки ЭБУ ЭТС определяет состояние соединения разъема кабеля и гнезда ЭТС&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;путем определения величины сопротивления&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;между&amp;nbsp; PE&amp;nbsp; и&amp;nbsp; точкой 3&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OtgqTg0IWu0x1teXSYlj-19" value="&lt;div&gt;&amp;nbsp;В процессе зарядки ЭБУ ЭТС определяет состояние соединения разъема кабеля и гнезда ЭТС&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;путем определения величины сопротивления&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;между&amp;nbsp; PE&amp;nbsp; и&amp;nbsp; точкой 3&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1.2499999999999947" y="6170" width="361.87" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aMy_s09rXomY22jvARsg-6" target="aMy_s09rXomY22jvARsg-7">
+        <mxCell id="aMy_s09rXomY22jvARsg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aMy_s09rXomY22jvARsg-6" target="aMy_s09rXomY22jvARsg-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;установлено,&amp;nbsp; что&amp;nbsp; S3&amp;nbsp; переключается&amp;nbsp; из&amp;nbsp; состояния&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;закрытия&amp;nbsp; в&amp;nbsp; состояние&amp;nbsp; открытия&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;ИЛИ&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;установлено,&amp;nbsp; что&amp;nbsp; разъем ЭТС переключается&amp;nbsp; из&amp;nbsp; состояния&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;полного соединения &lt;span style=&quot;background-color: initial;&quot;&gt;в состояние&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;отсутствия соединения&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aMy_s09rXomY22jvARsg-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;установлено,&amp;nbsp; что&amp;nbsp; S3&amp;nbsp; переключается&amp;nbsp; из&amp;nbsp; состояния&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;закрытия&amp;nbsp; в&amp;nbsp; состояние&amp;nbsp; открытия&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;ИЛИ&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;установлено,&amp;nbsp; что&amp;nbsp; разъем ЭТС переключается&amp;nbsp; из&amp;nbsp; состояния&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;полного соединения &lt;span style=&quot;background-color: initial;&quot;&gt;в состояние&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;отсутствия соединения&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-85.63" y="6340" width="530" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aMy_s09rXomY22jvARsg-7" target="aMy_s09rXomY22jvARsg-8">
+        <mxCell id="aMy_s09rXomY22jvARsg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aMy_s09rXomY22jvARsg-7" target="aMy_s09rXomY22jvARsg-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-7" value="&lt;br&gt;&lt;div style=&quot;forced-color-adjust: none; border-color: rgb(0, 0, 0); color: rgb(240, 240, 240); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(27, 29, 30); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; border-color: rgb(0, 0, 0); background-color: initial;&quot;&gt;ЭБУ ЭТС дает команду бортовому&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; border-color: rgb(0, 0, 0); color: rgb(240, 240, 240); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(27, 29, 30); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;зарядному устройству прекратить зарядку в течение 100 мс&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aMy_s09rXomY22jvARsg-7" value="&lt;br&gt;&lt;div style=&quot;forced-color-adjust: none; border-color: rgb(0, 0, 0); color: rgb(240, 240, 240); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(27, 29, 30); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; border-color: rgb(0, 0, 0); background-color: initial;&quot;&gt;ЭБУ ЭТС дает команду бортовому&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; border-color: rgb(0, 0, 0); color: rgb(240, 240, 240); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(27, 29, 30); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;зарядному устройству прекратить зарядку в течение 100 мс&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="9.69" y="6600" width="339.99" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aMy_s09rXomY22jvARsg-8" target="aMy_s09rXomY22jvARsg-9">
+        <mxCell id="aMy_s09rXomY22jvARsg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aMy_s09rXomY22jvARsg-8" target="aMy_s09rXomY22jvARsg-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-14" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aMy_s09rXomY22jvARsg-10">
+        <mxCell id="aMy_s09rXomY22jvARsg-14" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aMy_s09rXomY22jvARsg-10" vertex="1" connectable="0">
           <mxGeometry x="-0.1249" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aMy_s09rXomY22jvARsg-8" target="aMy_s09rXomY22jvARsg-16">
+        <mxCell id="aMy_s09rXomY22jvARsg-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aMy_s09rXomY22jvARsg-8" target="aMy_s09rXomY22jvARsg-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-18" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aMy_s09rXomY22jvARsg-17">
+        <mxCell id="aMy_s09rXomY22jvARsg-18" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aMy_s09rXomY22jvARsg-17" vertex="1" connectable="0">
           <mxGeometry x="-0.237" y="2" relative="1" as="geometry">
             <mxPoint x="-1" y="-65" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-8" value="Имеется ли переключатель S2?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aMy_s09rXomY22jvARsg-8" value="Имеется ли переключатель S2?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60.32" y="6740" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aMy_s09rXomY22jvARsg-9" target="aMy_s09rXomY22jvARsg-16">
+        <mxCell id="aMy_s09rXomY22jvARsg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aMy_s09rXomY22jvARsg-9" target="aMy_s09rXomY22jvARsg-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-9" value="Открыть S2 (подача тока прекращена)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aMy_s09rXomY22jvARsg-9" value="Открыть S2 (подача тока прекращена)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="119.36999999999999" y="6910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aMy_s09rXomY22jvARsg-16" target="aMy_s09rXomY22jvARsg-21">
+        <mxCell id="aMy_s09rXomY22jvARsg-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="aMy_s09rXomY22jvARsg-16" target="aMy_s09rXomY22jvARsg-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-16" value="&lt;div&gt;&amp;nbsp;В&amp;nbsp; процессе&amp;nbsp; зарядки ЭБУ ЭТС обнаруживает&amp;nbsp; ШИМ-сигнал точки&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;2&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aMy_s09rXomY22jvARsg-16" value="&lt;div&gt;&amp;nbsp;В&amp;nbsp; процессе&amp;nbsp; зарядки ЭБУ ЭТС обнаруживает&amp;nbsp; ШИМ-сигнал точки&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;2&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="85.62" y="7070" width="187.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aMy_s09rXomY22jvARsg-20" target="aMy_s09rXomY22jvARsg-37">
+        <mxCell id="aMy_s09rXomY22jvARsg-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aMy_s09rXomY22jvARsg-20" target="aMy_s09rXomY22jvARsg-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-20" value="&lt;div&gt;&amp;nbsp;Во&amp;nbsp; время&amp;nbsp; процесса&amp;nbsp; зарядки&amp;nbsp; блок&amp;nbsp; управления&amp;nbsp; питанием измеряет значение напряжения в точке 1&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aMy_s09rXomY22jvARsg-20" value="&lt;div&gt;&amp;nbsp;Во&amp;nbsp; время&amp;nbsp; процесса&amp;nbsp; зарядки&amp;nbsp; блок&amp;nbsp; управления&amp;nbsp; питанием измеряет значение напряжения в точке 1&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70.31" y="7930" width="218.12" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aMy_s09rXomY22jvARsg-21" target="aMy_s09rXomY22jvARsg-27">
+        <mxCell id="aMy_s09rXomY22jvARsg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aMy_s09rXomY22jvARsg-21" target="aMy_s09rXomY22jvARsg-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-21" value="Обнаруживаемый ШИМ сигнал прервался" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aMy_s09rXomY22jvARsg-21" value="Обнаруживаемый ШИМ сигнал прервался" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="95.32" y="7200" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aMy_s09rXomY22jvARsg-25" target="aMy_s09rXomY22jvARsg-26">
+        <mxCell id="aMy_s09rXomY22jvARsg-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="aMy_s09rXomY22jvARsg-25" target="aMy_s09rXomY22jvARsg-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-36" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aMy_s09rXomY22jvARsg-32">
+        <mxCell id="aMy_s09rXomY22jvARsg-36" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aMy_s09rXomY22jvARsg-32" vertex="1" connectable="0">
           <mxGeometry x="-0.0586" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-25" value="Имеется ли переключатель S2?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aMy_s09rXomY22jvARsg-25" value="Имеется ли переключатель S2?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="59.67999999999998" y="7570" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aMy_s09rXomY22jvARsg-26" target="aMy_s09rXomY22jvARsg-20">
+        <mxCell id="aMy_s09rXomY22jvARsg-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aMy_s09rXomY22jvARsg-26" target="aMy_s09rXomY22jvARsg-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-26" value="Открыть S2 (подача тока прекращена)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aMy_s09rXomY22jvARsg-26" value="Открыть S2 (подача тока прекращена)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="119.37" y="7760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aMy_s09rXomY22jvARsg-27" target="aMy_s09rXomY22jvARsg-25">
+        <mxCell id="aMy_s09rXomY22jvARsg-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aMy_s09rXomY22jvARsg-27" target="aMy_s09rXomY22jvARsg-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-27" value="&lt;br&gt;&lt;div style=&quot;forced-color-adjust: none; border-color: rgb(0, 0, 0); color: rgb(240, 240, 240); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(27, 29, 30); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; border-color: rgb(0, 0, 0); background-color: initial;&quot;&gt;ЭБУ ЭТС дает команду бортовому&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; border-color: rgb(0, 0, 0); color: rgb(240, 240, 240); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(27, 29, 30); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;зарядному устройству прекратить зарядку в течение 3с&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aMy_s09rXomY22jvARsg-27" value="&lt;br&gt;&lt;div style=&quot;forced-color-adjust: none; border-color: rgb(0, 0, 0); color: rgb(240, 240, 240); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(27, 29, 30); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; border-color: rgb(0, 0, 0); background-color: initial;&quot;&gt;ЭБУ ЭТС дает команду бортовому&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; border-color: rgb(0, 0, 0); color: rgb(240, 240, 240); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(27, 29, 30); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;зарядному устройству прекратить зарядку в течение 3с&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="84.06" y="7410" width="190.63" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aMy_s09rXomY22jvARsg-37" target="aMy_s09rXomY22jvARsg-38">
+        <mxCell id="aMy_s09rXomY22jvARsg-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aMy_s09rXomY22jvARsg-37" target="aMy_s09rXomY22jvARsg-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-37" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;значение напряжения в точке 1 составляет 12 В ИЛИ 9 В ИЛИ&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;любое состояние, отличное от 6 В&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aMy_s09rXomY22jvARsg-37" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;значение напряжения в точке 1 составляет 12 В ИЛИ 9 В ИЛИ&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;любое состояние, отличное от 6 В&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4.369999999999996" y="8080" width="350" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aMy_s09rXomY22jvARsg-38" target="aMy_s09rXomY22jvARsg-43">
+        <mxCell id="aMy_s09rXomY22jvARsg-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aMy_s09rXomY22jvARsg-38" target="aMy_s09rXomY22jvARsg-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-38" value="&lt;div&gt;&amp;nbsp;Блок&amp;nbsp; управления питанием отключает цепь питания&amp;nbsp; переменного тока в&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;течение 100 мс&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aMy_s09rXomY22jvARsg-38" value="&lt;div&gt;&amp;nbsp;Блок&amp;nbsp; управления питанием отключает цепь питания&amp;nbsp; переменного тока в&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;течение 100 мс&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="8290" width="280.78" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aMy_s09rXomY22jvARsg-43" target="aMy_s09rXomY22jvARsg-44">
+        <mxCell id="aMy_s09rXomY22jvARsg-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aMy_s09rXomY22jvARsg-43" target="aMy_s09rXomY22jvARsg-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-43" value="&lt;div&gt;обнаружено, что вилка и розетка переходят&amp;nbsp; из&amp;nbsp; состояния полного соединения в состояние&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;разъединения&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aMy_s09rXomY22jvARsg-43" value="&lt;div&gt;обнаружено, что вилка и розетка переходят&amp;nbsp; из&amp;nbsp; состояния полного соединения в состояние&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;разъединения&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="55.39" y="8450" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aMy_s09rXomY22jvARsg-44" target="aMy_s09rXomY22jvARsg-47">
+        <mxCell id="aMy_s09rXomY22jvARsg-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aMy_s09rXomY22jvARsg-44" target="aMy_s09rXomY22jvARsg-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-44" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;блок управления питанием дает команду S1 переключиться в состояние соединения +12&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;В и&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;отключить цепь питания переменного тока в течение 100 мс&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aMy_s09rXomY22jvARsg-44" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;блок управления питанием дает команду S1 переключиться в состояние соединения +12&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;В и&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;отключить цепь питания переменного тока в течение 100 мс&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="6.709999999999994" y="8688" width="345.31" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aMy_s09rXomY22jvARsg-47" target="aMy_s09rXomY22jvARsg-48">
+        <mxCell id="aMy_s09rXomY22jvARsg-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aMy_s09rXomY22jvARsg-47" target="aMy_s09rXomY22jvARsg-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-47" value="Сработало устройство защиты от утечки тока (RCD)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aMy_s09rXomY22jvARsg-47" value="Сработало устройство защиты от утечки тока (RCD)" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="74.84" y="8890" width="210.31" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-48" value="&amp;nbsp;зарядная станция немедленно прекращает зарядку, отключает контакторы K1 и K2, и размыкает S2." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aMy_s09rXomY22jvARsg-48" value="&amp;nbsp;зарядная станция немедленно прекращает зарядку, отключает контакторы K1 и K2, и размыкает S2." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="86.71" y="9080" width="185.95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aMy_s09rXomY22jvARsg-52" value="ОСТАЛОСЬ&amp;nbsp;&lt;span style=&quot;color: rgb(246, 248, 250); font-family: system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; font-weight: 600; text-align: start; text-wrap: wrap; background-color: rgb(36, 41, 46);&quot;&gt;A.3.10.7 -&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(246, 248, 250); font-family: system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; font-weight: 600; text-align: start; text-wrap: wrap; background-color: rgb(36, 41, 46);&quot;&gt;A.3.10.9&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="9218" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
