@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17" pages="3">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9" pages="3">
   <diagram id="QJB4taHwHtR-wv6VzhzJ" name="Алгоритм">
     <mxGraphModel dx="1160" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -628,7 +628,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="L5ey7sO-qDmW8-c1sars" name="Последовательность управления процессом зарядки">
-    <mxGraphModel dx="3254" dy="1624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3184" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1205,7 +1205,7 @@
         <mxCell id="aMy_s09rXomY22jvARsg-47" value="Сработало устройство защиты от утечки тока (RCD)" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="74.84" y="8890" width="210.31" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="aMy_s09rXomY22jvARsg-48" value="&amp;nbsp;зарядная станция немедленно прекращает зарядку, отключает контакторы K1 и K2, и размыкает S2." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="aMy_s09rXomY22jvARsg-48" value="&amp;nbsp;зарядная станция немедленно прекращает зарядку, отключает контакты&lt;div&gt;&amp;nbsp;K1 и K2, и размыкает S2.&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="86.71" y="9080" width="185.95" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aMy_s09rXomY22jvARsg-52" value="ОСТАЛОСЬ&amp;nbsp;&lt;span style=&quot;color: rgb(246, 248, 250); font-family: system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; font-weight: 600; text-align: start; text-wrap: wrap; background-color: rgb(36, 41, 46);&quot;&gt;A.3.10.7 -&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(246, 248, 250); font-family: system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; font-weight: 600; text-align: start; text-wrap: wrap; background-color: rgb(36, 41, 46);&quot;&gt;A.3.10.9&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
